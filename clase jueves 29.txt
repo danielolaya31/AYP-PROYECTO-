@@ -1,0 +1,1 @@
+se hablo de numpy y vectorizacion con np.array()
